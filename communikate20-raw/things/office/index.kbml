@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="office" image="/images/building_office/office_block.svg"/>
+  <button text="chair" image="/images/building_furniture/chair_computer.svg" />
+  <button text="filing cabinet" image="/images/building_furniture/filing_cabinet.svg" />
+  <button text="computer" image="/images/electrical_computer/computer_2.svg"/>
+</row>
+<row>
+  <button text="photocopier" image="/images/building_equipment/photocopier.svg"/>
+  <button text="bin" image="/images/building_contents/waste_paper_bin.svg" />
+  <button text="desk" image="/images/building_furniture/desk.svg" />
+  <button text="file" image="/images/work_stationery/arch_lever_file.svg" />
+  <button text="fax" image="/images/electrical_general/fax_machine.svg" />
+</row>
+<row>
+  <button text="pen" image="/images/work_stationery/pen.svg" />
+  <button text="pencil" image="/images/work_stationery/pencil.svg" />
+  <button text="scissors" image="/images/healthcare_grooming/scissors.svg" />
+  <button text="envelope" image="/images/work_stationery/envelope.svg" />
+  <button text="paper" image="/images/work_stationery/paper.svg" />
+</row>
+<row>
+  <button text="paperclip" image="/images/work_stationery/paperclip.svg" />
+  <button text="label" image="/images/work_stationery/labels.svg" />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

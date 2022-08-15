@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="fizzy drink" image="/images/drink_type/drink.svg" />
+  <button text="orangeade" image="/images/drink_type/orange_fizzy_drink.svg"/>
+  <button text="lemonade" image="/images/drink_type/lemonade_2.svg" />
+  <button text="coke" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

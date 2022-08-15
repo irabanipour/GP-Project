@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:purple;
+  color:white;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="shop" image="/images/building_shop/shop_2.svg" />
+  <button text="supermarket" image="/images/food_vegetables/vegetables.svg" />
+  <button text="butchers" image="/images/food_meat/meat.svg" />
+  <button text="shopping centre" image="/images/holiday_travel/road.svg" />
+</row>
+<row>
+  <button text="bakers" image="/images/food_breads/bread_sliced.svg" />
+  <button text="Veg shop" image="/images/food_vegetables/vegetables.svg" />
+  <button text="department store" image="/images/electrical_media/iPod.svg" />
+  <button text="clothes shop" image="/images/clothes_general/clothes_generic.svg" />
+  <button text="music shop" image="/images/work_subjects/music.svg" />
+</row>
+<row>
+  <button text="market" image="/images/art_making/craft_table.svg" />
+  <button text="coffee shop" image="/images/drink_type/coffee.svg" />
+  <button text="drive through" image="/images/food_meals/takeaway_burger_and_chips.svg" />
+  <button text="pharmacy" image="/images/medical_items/medicine.svg" />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

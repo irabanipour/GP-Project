@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:hotpink;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="bake" image="/images/kitchen_actions/bake_,_to.svg" />
+  <button text="cook" image="/images/kitchen_actions/cook_,_to.svg"/>
+  <button text="chop" image="/images/kitchen_actions/chop_,_to.svg" />
+  <button text="grate" image="/images/kitchen_actions/grate_,_to.svg"/>
+</row>
+<row>
+  <button text="stir" image="/images/kitchen_actions/stir_mix_,_to.svg" />
+  <button text="peel" image="/images/kitchen_actions/peel_,_to.svg" />
+  <button text="pour" image="/images/food_ingredients/gravy_pour_,_to.svg" />
+  <button text="blend" image="/images/kitchen_items/blender-drinks.svg" />
+  <button text="fry" image="/images/kitchen_actions/fry_,_to.svg" />
+</row>
+<row>
+  <button text="measure" image="/images/descriptive_quantity/weigh_,_to.svg" />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button text="it" image="/images/descriptive_position/bottom.svg"/>
+  <button />
+  <button />
+  <button text="Kitchen equipment" image="/images/kitchen_items/place_setting.svg" style="cell-color:yellow" link="/things/kitchen_things"/>
+  <button text="Don't burn it" image="/images/medical_conditions/burn.svg" style="cell-color:lightgrey"/>
+</row>
+</keyboard>

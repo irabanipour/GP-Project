@@ -1,0 +1,37 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Hello" image="/images/communication_conversation/hello.svg" style="cell-color:lightgrey;" />
+  <button text="I want to talk to you" image="/images/people_feelings/serene_man.svg" style="cell-color:lightgrey;" />
+  <button text="Chatting" image="/images/people_feelings/excited_lady.svg" style="cell-color:lightgrey;" link="chatting" />
+  <button text="Questions" image="/images/question/how.svg" link="questions" style="cell-color:orange;"/>
+  <button text="Food" image="/images/food_breads/food.svg" style="cell-color:yellow;" link="food" />
+</row>
+<row>
+  <button text="I" image="/images/people_descriptive/good_person.svg" style="cell-color:goldenrod" />
+  <button text="People" image="/images/work_timetable/assembly.svg" style="cell-color:goldenrod" link="people"/>
+  <button text="Personal Care" image="/images/healthcare_grooming/shower_1_,_to.svg" style="cell-color:pink" link="personal_care" />
+  <button text="Little Words" image="/images/descriptive_quantity/little.svg" style="cell-color:lime" link="little_words" />
+  <button text="My Day" image="/images/building_school/school.svg" style="cell-color:yellow" link="my_day" />
+</row>
+<row>
+  <button text="Action Words" image="/images/tools_actions/work_,_to.svg" style="cell-color:hotpink" link="action_words" />
+  <button text="go" image="/images/transport_road/traffic_lights.svg" style="cell-color:hotpink" />
+  <button text="want" image="/images/healthcare_body/fist.svg" style="cell-color:hotpink" />
+  <button text="Describing" image="/images/leisure_toys/shapesorter.svg" style="cell-color:cyan" link="describing" />
+  <button text="Things" image="/images/building_furniture/dining_table.svg" style="cell-color:yellow" link="things" />
+</row>
+<row>
+  <button text="Clear" style="font-size:28;font-weight:bold;cell-color:powderblue" action="clear"/>
+  <button text="Time" image="/images/electrical_general/clock.svg" style="color:white;cell-color:dodgerblue" link="time"/>
+  <button text="Places" image="/images/science_astronomy/Earth.svg" style="color:white;cell-color:purple" link="places"/>
+  <button text="Leisure" image="/images/leisure_toys/ball_beach.svg" style="cell-color:cornflowerblue" link="leisure"/>
+  <button text="Delete Word" image="/images/descriptive_direction/backwards.svg" style="cell-color:powderblue" action="delete"/>
+</row>
+</keyboard>
+        

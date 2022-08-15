@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="juice" image="/images/food_fruit/fruit.svg" />
+  <button text="apple juice" image="/images/drink_type/apple_juice.svg"/>
+  <button text="orange juice" image="/images/drink_type/orange_juice.svg" />
+  <button text="blackcurrant juice" image="/images/drink_type/blackcurrant_juice.svg" />
+</row>
+<row>
+  <button text="pineapple juice" image="/images/drink_type/pineapple_juice.svg" />
+  <button text="grape juice" image="/images/drink_type/grape_juice.svg" />
+  <button text="grapefruit juice" image="/images/drink_type/grapefruit_juice.svg" />
+  <button text="cranberry juice" image="/images/drink_type/cranberry_juice.svg" />
+  <button text="tomato juice" image="/images/drink_type/tomato_juice.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

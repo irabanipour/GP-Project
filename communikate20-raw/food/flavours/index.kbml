@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="flavour" image="/images/food_fruit/fruit.svg" />
+  <button text="raisin" image="/images/food_fruit/raisin.svg"/>
+  <button text="banana" image="/images/food_fruit/banana.svg" />
+  <button />
+</row>
+<row>
+  <button text="fruit" image="/images/food_fruit/fruit.svg" />
+  <button text="mint" image="/images/food_sweets/mints.svg" />
+  <button text="toffee" image="/images/food_sweets/chocolate_box.svg" />
+  <button text="lime" image="/images/food_fruit/lime.svg" />
+  <button text="lemon" image="/images/food_fruit/lemon.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button text="chocolate" image="/images/food_sweets/chocolate.svg" />
+  <button text="pineapple" image="/images/food_fruit/pineapple.svg" />
+</row>
+<row>
+  <button />
+  <button text="strawberry" image="/images/food_fruit/strawberry.svg" />
+  <button />
+  <button text="cherry" image="/images/food_fruit/cherry.svg" />
+  <button text="blackberry" image="/images/food_fruit/blackberry.svg" />
+</row>
+</keyboard>

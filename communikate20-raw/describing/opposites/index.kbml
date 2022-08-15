@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:cyan;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="dry" image="/images/descriptive_state/dry.svg" />
+  <button text="wet" image="/images/descriptive_state/wet_1.svg" />
+  <button text="long" image="/images/descriptive_quantity/long.svg" />
+  <button text="short" image="/images/descriptive_quantity/short_2.svg" />
+</row>
+<row>
+  <button text="all done" image="/images/descriptive_direction/finish.svg" />
+  <button text="fast" image="/images/descriptive_quantity/fast_2.svg" />
+  <button text="slow" image="/images/animal_crustacean/snail.svg" />
+  <button text="loud" image="/images/descriptive_state/loud.svg" />
+  <button text="quiet" image="/images/people_descriptive/quiet.svg" />
+</row>
+<row>
+  <button text="medium" image="/images/drink_containers/drink_medium.svg" />
+  <button text="big" image="/images/descriptive_quantity/large.svg" />
+  <button text="little" image="/images/descriptive_quantity/little.svg" />
+  <button text="new" image="/images/descriptive_state/shiny.svg" />
+  <button text="old" image="/images/descriptive_state/old_object.svg" />
+</row>
+<row>
+  <button text="soft" image="/images/descriptive_state/soft.svg"/>
+  <button text="easy" image="/images/leisure_toys/bricks.svg" />
+  <button text="hard" image="/images/descriptive_state/hard.svg" />
+  <button text="clean" image="/images/clothes_general/t-shirt.svg"/>
+  <button text="dirty" image="/images/descriptive_state/dirty.svg"/>
+</row>
+</keyboard>

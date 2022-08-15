@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:dodgerblue;
+  color:white;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="day" image="/images/descriptive_time/day.svg"/>
+  <button text="week" image="/images/descriptive_time/week_1.svg"/>
+  <button text="weekend" image="/images/descriptive_time/weekend.svg" />
+  <button text="night" image="/images/descriptive_time/night.svg" />
+</row>
+<row>
+  <button text="Monday" image="/images/descriptive_time/day.svg" />
+  <button text="Tuesday" image="/images/descriptive_time/day.svg" />
+  <button text="Wednesday" image="/images/descriptive_time/day.svg" />
+  <button text="Thursday" image="/images/descriptive_time/day.svg" />
+  <button text="Friday" image="/images/descriptive_time/day.svg" />
+</row>
+<row>
+  <button text="Saturday" image="/images/descriptive_time/day.svg" />
+  <button text="Sunday" image="/images/descriptive_time/day.svg" />
+  <button text="this week" image="/images/descriptive_time/this_week.svg" />
+  <button text="next week" image="/images/descriptive_time/next_week.svg" />
+  <button text="tonight" image="/images/descriptive_time/night.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

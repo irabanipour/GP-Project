@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="body" image="/images/healthcare_body/body_outline.svg" />
+  <button text="hand" image="/images/healthcare_body/fist.svg" />
+  <button text="head" image="/images/healthcare_body/head.svg" />
+  <button text="finger" image="/images/healthcare_body/finger.svg" />
+</row>
+<row>
+  <button text="chest" image="/images/healthcare_body/chest_male.svg" />
+  <button text="ear" image="/images/healthcare_body/ear.svg" />
+  <button text="face" image="/images/people_feelings/face_neutral_3.svg" />
+  <button text="hair" image="/images/people_descriptive/hair_bunches.svg" />
+  <button text="mouth" image="/images/healthcare_body/mouth.svg" />
+</row>
+<row>
+  <button text="back" image="/images/healthcare_body/spine.svg" />
+  <button text="nose" image="/images/healthcare_body/nostril.svg" />
+  <button text="arm" image="/images/healthcare_body/arm.svg" />
+  <button text="foot" image="/images/healthcare_body/foot.svg" />
+  <button text="eye" image="/images/healthcare_body/eye.svg" />
+</row>
+<row>
+  <button text="stomach" image="/images/healthcare_body/stomach_1.svg"/>
+  <button text="neck" image="/images/healthcare_body/neck.svg" />
+  <button text="leg" image="/images/healthcare_body/leg.svg" />
+  <button text="toes" image="/images/healthcare_body/toe_nail.svg" />
+  <button text="private parts" image="/images/healthcare_body/male_body.svg" link="/personal_care/private_parts"/>
+</row>
+</keyboard>

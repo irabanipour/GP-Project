@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:cyan;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="feeling" image="/images/people_feelings/happy_lady.svg" />
+  <button text="afraid" image="/images/people_feelings/afraid_lady.svg" />
+  <button text="safe" image="/images/people_profession/care_assistant_1a.svg" />
+  <button text="busy" image="/images/people_descriptive/busy.svg" />
+</row>
+<row>
+  <button text="It is" image="/images/descriptive_position/bottom.svg" style="cell-color:goldenrod" />
+  <button text="board" image="/images/leisure_games/armwrestle_,_to.svg" />
+  <button text="funny" image="/images/people_descriptive/funny_laugh.svg" />
+  <button text="good" image="/images/descriptive_state/good.svg" />
+  <button text="happy" image="/images/people_feelings/happy_man.svg" />
+</row>
+<row>
+  <button text="I am" image="/images/people_descriptive/good_person.svg" style="cell-color:goldenrod" />
+  <button text="tired" image="/images/descriptive_time/bed_time.svg" />
+  <button text="angry" image="/images/people_feelings/angry_man.svg" />
+  <button text="sad" image="/images/people_feelings/sad_lady.svg" />
+  <button text="sick" image="/images/medical_conditions/stomach_ache.svg" />
+</row>
+<row>
+  <button text="hot" image="/images/people_descriptive/hot_person.svg"/>
+  <button text="cold" />
+  <button text="bad" image="/images/descriptive_state/bad.svg" />
+  <button text="scared" image="/images/people_descriptive/scary.svg"/>
+  <button text="confused" image="/images/people_feelings/confused_man.svg"/>
+</row>
+</keyboard>

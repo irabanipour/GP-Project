@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:purple;
+  color:white;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="outside place" image="/images/descriptive_position/outside.svg" />
+  <button text="street" image="/images/holiday_travel/road.svg" />
+  <button text="car park" image="/images/holiday_travel/road.svg" />
+  <button text="beach" image="/images/holiday_travel/beach.svg" />
+</row>
+<row>
+  <button text="countryside" image="/images/holiday_travel/mountains.svg" />
+  <button text="lake" image="/images/building_garden/pond.svg" />
+  <button text="woods" image="/images/plants_trees/tree.svg" />
+  <button text="field" image="/images/building_garden/field.svg" />
+  <button text="garden" image="/images/building_garden/back_garden.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

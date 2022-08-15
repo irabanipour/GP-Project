@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="snack" image="/images/food_sweets/ice_cream_2.svg" />
+  <button text="raisins" image="/images/food_fruit/raisin.svg"/>
+  <button text="ice lolly" image="/images/food_sweets/ice_lolly.svg" link="/food/flavours" action="say"/>
+  <button text="cake" image="/images/food_breads/cake.svg"/>
+</row>
+<row>
+  <button text="custard" image="/images/food_sweets/pour_custard_,_to.svg" />
+  <button text="cream" image="/images/food_dairy/cream.svg" />
+  <button text="fruit" image="/images/food_fruit/fruit.svg" link="/food/fruit"/>
+  <button text="yoghurt" image="/images/food_dairy/yogurt.svg" link="/food/flavours" action="say"/>
+  <button text="crisps" image="/images/food_meals/crisps.svg" />
+</row>
+<row>
+  <button text="sweets" image="/images/food_sweets/sweet.svg" />
+  <button text="candy floss" image="/images/food_sweets/candy_floss.svg" />
+  <button text="pie" image="/images/food_breads/pie.svg" />
+  <button text="chocolate" image="/images/food_sweets/chocolate.svg" />
+  <button text="ice cream" image="/images/food_sweets/ice_cream_2.svg" link="/food/flavours" />
+</row>
+<row>
+  <button text="cup cake" image="/images/food_breads/cake_cup_cake.svg"/>
+  <button text="rice cake" image="/images/food_pastas/rice_cake.svg"/>
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

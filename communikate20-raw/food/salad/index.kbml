@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="salad" image="/images/food_vegetables/salad.svg" />
+  <button text="olives" image="/images/food_vegetables/olives.svg"/>
+  <button text="tomato" image="/images/food_vegetables/tomato.svg" />
+  <button text="spring onion" image="/images/food_vegetables/spring_onions.svg"/>
+</row>
+<row>
+  <button text="celery" image="/images/food_vegetables/celery.svg" />
+  <button text="cucumber" image="/images/food_vegetables/cucumber.svg" />
+  <button text="pepper" image="/images/food_vegetables/pepper.svg" />
+  <button text="radish" image="/images/food_vegetables/radish.svg" />
+  <button text="lettuce" image="/images/food_vegetables/lettuce.svg" />
+</row>
+<row>
+  <button text="beetroot" image="/images/food_vegetables/beetroot.svg" />
+  <button text="chili pepper" image="/images/food_vegetables/chilli_pepper.svg" />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="pint" image="/images/drink_containers/pint.svg" />
+  <button text="half pint" image="/images/drink_containers/pint_half.svg"/>
+  <button text="straw" image="/images/kitchen_items/straw.svg" />
+  <button />
+</row>
+<row>
+  <button text="special cup" image="/images/food_feeding/dysphagia_cup_2.svg" />
+  <button text="diet" image="/images/food_ingredients/sugar_white.svg" />
+  <button text="sugar" image="/images/food_ingredients/sugar_white.svg" />
+  <button />
+  <button />
+</row>
+<row>
+  <button text="large" image="/images/drink_containers/drink_large.svg" style="cell-color:cyan" />
+  <button text="medium" image="/images/drink_containers/drink_medium.svg" style="cell-color:cyan" />
+  <button text="small" image="/images/drink_containers/drink_small.svg" style="cell-color:cyan" />
+  <button />
+  <button />
+</row>
+<row>
+  <button text="hot" image="/images/drink_description/drink_hot.svg" style="cell-color:cyan" />
+  <button text="cold" image="/images/drink_description/drink_cold.svg" style="cell-color:cyan" />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

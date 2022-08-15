@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="lunch" image="/images/food_meals/lunch_1.svg" />
+  <button text="sandwich" image="/images/food_meals/sandwich.svg" />
+  <button text="crackers" image="/images/food_meals/crisp_bread.svg" />
+  <button text="tuna" image="/images/food_meals/lunch_1.svg" />
+</row>
+<row>
+  <button text="cheese" image="/images/food_dairy/cheese.svg" />
+  <button text="ham" image="/images/food_meat/ham.svg" />
+  <button text="chicken" image="/images/food_poultry/chicken_breast.svg" />
+  <button text="cheese on toast" image="/images/food_meals/cheese_on_toast_,_melted.svg" />
+  <button text="beans on toast" image="/images/food_meals/beans_on_toast.svg" />
+</row>
+<row>
+  <button text="soup" image="/images/food_meals/soup.svg" />
+  <button text="chicken soup" image="/images/food_meals/soup_chicken.svg" />
+  <button text="tomato soup" image="/images/food_meals/soup_tomato.svg" />
+  <button text="salad" image="/images/food_vegetables/salad.svg" />
+  <button />
+</row>
+<row>
+  <button text="carrot soup" image="/images/food_meals/soup_carrot.svg" />
+  <button text="mushroom soup" image="/images/food_meals/soup_mushroom.svg" />
+  <button text="vegetable soup" image="/images/food_meals/soup_vegetable.svg" />
+  <button />
+  <button />
+</row>
+</keyboard>

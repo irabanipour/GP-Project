@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:lightgrey;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="cool" image="/images/clothes_accessories/sunglasses.svg" />
+  <button text="Are you ignoring me?" image="/images/people_feelings/jealous_man.svg" style="font-size:14;cell-color:orange" />
+  <button text="leave me alone" image="/images/descriptive_direction/go_through_door_,_to.svg" />
+  <button text="lucky" image="/images/descriptive_state/lucky.svg" />
+</row>
+<row>
+  <button text="chill out" image="/images/people_actions/relax_3_,_to.svg" />
+  <button text="go away" image="/images/sport/race_athletics.svg" />
+  <button text="loser" image="/images/descriptive_position/last_2.svg" />
+  <button text="wow" />
+  <button text="minga" image="/images/people_descriptive/ugly.svg"/>
+</row>
+<row>
+  <button text="Your doing my head in" image="/images/medical_conditions/headache.svg" />
+  <button text="whatever"/>
+  <button text="no way" image="/images/descriptive_state/bad.svg" />
+  <button text="shut up" image="/images/people_descriptive/quiet.svg"/>
+  <button text="Were you put on this earth to annoy me?" image="/images/science_astronomy/Earth.svg" style="font-size:14;cell-color:orange" />
+</row>
+<row>
+  <button text="dont" image="/images/healthcare_body/finger.svg" style="cell-color:white"/>
+  <button text="not" image="/images/descriptive_state/mistake_no_wrong.svg" style="cell-color:white" />
+  <button text="well" image="/images/healthcare_body/fist.svg" />
+  <button image="/images/people_feelings/laughing_man.svg" style="image:center;"/>
+  <button image="/images/healthcare_body/thigh.svg" style="image:center;"/>
+</row>
+</keyboard>

@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:lightgrey;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="About Me" image="/images/people_descriptive/good_person.svg" link="about_me" />
+  <button text="WML" image="/images/descriptive_position/second_3.svg" link="WML" />
+  <button text="I can't find what I want to say" />
+  <button text="bye" image="/images/people_actions/exit_door_,_to.svg" />
+</row>
+<row>
+  <button text="I'm fine" image="/images/people_profession/visitor_1a.svg" />
+  <button text="ok" image="/images/descriptive_state/good.svg" />
+  <button text="I'm not so good" image="/images/medical_conditions/stomach_ache.svg" />
+  <button text="please" />
+  <button text="thank you" image="/images/descriptive_state/great.svg"/>
+</row>
+<row>
+  <button text="sorry" />
+  <button text="excuse me" image="/images/medical_conditions/sneeze_cold.svg"/>
+  <button text="maybe"/>
+  <button text="really" image="/images/people_feelings/laughing_man.svg"/>
+  <button text="I don't know" image="/images/question/why.svg"/>
+</row>
+<row>
+  <button text="My stories" image="/images/people_descriptive/funny_laugh.svg" style="cell-color:pink"/>
+  <button text="I love you" image="/images/food_sweets/candy_hearts.svg"/>
+  <button text="but" style="cell-color:orchid"/>
+  <button text="Ouch" image="/images/medical_conditions/cut.svg" />
+  <button text="so" />
+</row>
+</keyboard>

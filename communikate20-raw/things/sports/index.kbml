@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="sports" image="/images/sport/swim_,_to.svg"/>
+  <button text="football" image="/images/sport_accessories/football.svg" />
+  <button text="rugby" image="/images/sport_accessories/rugby_ball.svg" />
+  <button text="cycling" image="/images/sport/cycle_,_to.svg"/>
+</row>
+<row>
+  <button text="boccia" image="/images/sport/boccia.svg"/>
+  <button text="motor sport" image="/images/transport_road/motorcycle.svg" />
+  <button text="golf" image="/images/sport/golf.svg" />
+  <button text="fishing" image="/images/sport/fish_,_to.svg" />
+  <button text="pool" image="/images/leisure_games/pool_snooker.svg" />
+</row>
+<row>
+  <button text="bowling" image="/images/sport/bowling.svg" />
+  <button text="tennis" image="/images/sport/tennis.svg" />
+  <button text="horse riding" image="/images/sport/ride_horse_,_to.svg" />
+  <button text="skiing" image="/images/sport/ski_,_to.svg" />
+  <button text="dancing" image="/images/sport/exercise_,_to.svg" />
+</row>
+<row>
+  <button text="gymnastics" image="/images/sport/gym_1.svg" />
+  <button text="athletics" image="/images/sport/race_athletics.svg" />
+  <button text="outdoor sport" image="/images/sport_accessories/climbing_rock.svg" />
+  <button text="judo" image="/images/sport/judo.svg" />
+  <button />
+</row>
+</keyboard>

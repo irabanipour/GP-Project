@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  font-size:16;
+  cell-color:hotpink;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="do" image="/images/healthcare_body/fist.svg" />
+  <button text="help" image="/images/people_profession/care_assistant_2b.svg" />
+  <button text="look" image="/images/healthcare_body/eyes_green.svg" />
+  <button text="see" image="/images/healthcare_body/eyes_blue.svg" />
+</row>
+<row>
+  <button text="stop" image="/images/transport_road/traffic_lights.svg" />
+  <button text="come" />
+  <button text="get" image="/images/leisure_toys/car_toy.svg" />
+  <button text="give" image="/images/kitchen_actions/sprinkle_,_to.svg" />
+  <button text="think" />
+</row>
+<row>
+  <button text="like" image="/images/descriptive_state/great.svg" />
+  <button text="listen" image="/images/healthcare_body/ear.svg" />
+  <button text="make" image="/images/tools_actions/work_,_to.svg" />
+  <button text="put" />
+  <button text="tell" image="/images/people_feelings/man_-_face.svg" />
+</row>
+<row>
+  <button text="take" image="/images/science/smooth.svg"/>
+  <button text="turn" image="/images/descriptive_direction/around.svg"/>
+  <button text="open" image="/images/descriptive_position/open_2.svg" />
+  <button text="close" image="/images/descriptive_position/closed.svg" />
+  <button text="More action words" image="/images/tools_actions/work_,_to.svg" link="more"/>
+</row>
+</keyboard>

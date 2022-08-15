@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="breakfast" image="/images/food_meals/breakfast_5.svg" link="breakfast" />
+  <button text="lunch" image="/images/food_meals/lunch_1.svg" link="lunch"/>
+  <button text="meals" image="/images/food_feeding/dinner.svg" link="meals" />
+  <button text="meat and fish" image="/images/food_meat/meat.svg" link="meat_fish"/>
+</row>
+<row>
+  <button text="I'm hungry" image="/images/food_feeding/hungry.svg" style="cell-color:cyan" />
+  <button text="vegetables" image="/images/food_vegetables/vegetables.svg" link="vegetables"/>
+  <button text="fruit" image="/images/food_fruit/fruit.svg" link="fruit"/>
+  <button text="drinks" image="/images/drink_description/drinks.svg" link="drinks"/>
+  <button text="fast food" image="/images/food_meals/takeaway_burger_and_chips.svg" link="fast_food"/>
+</row>
+<row>
+  <button text="I'm thirsty" image="/images/food_feeding/thirsty.svg" style="cell-color:cyan" />
+  <button text="snacks/pudding" image="/images/food_sweets/ice_cream_2.svg" link="snacks"/>
+  <button text="Sauces/ingredients" image="/images/food_ingredients/sauce_tomato.svg" link="sauces"/>
+  <button text="salad" image="/images/food_vegetables/salad.svg" link="salad"/>
+  <button text="cooking words" image="/images/kitchen_actions/cook_,_to.svg" style="cell-color:hotpink" link="cooking"/>
+</row>
+<row>
+  <button text="some" image="/images/descriptive_state/spotty.svg" style="cell-color:lime"/>
+  <button text="with" image="/images/descriptive_quantity/some.svg" style="cell-color:lime"/>
+  <button text="and" style="cell-color:pink"/>
+  <button text="Food chat" image="/images/food_meals/ready_meal.svg" style="cell-color:lightgrey" link="food_chat"/>
+  <button text="favorite food" image="/images/food_feeding/delicious_food.svg" style="cell-color:lightgrey" />
+</row>
+</keyboard>

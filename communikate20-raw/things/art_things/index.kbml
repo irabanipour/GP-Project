@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="art" image="/images/art_making/craft_table.svg" />
+  <button text="paint" image="/images/work_stationery/paint_childs.svg" />
+  <button text="glitter" image="/images/work_stationery/glitter.svg" />
+  <button text="sponge" image="/images/healthcare_grooming/sponge.svg" />
+</row>
+<row>
+  <button text="tape" image="/images/work_stationery/masking_tape.svg"/>
+  <button text="eraser" image="/images/work_stationery/pencil_case.svg" />
+  <button text="glue" image="/images/work_stationery/glue_stick.svg" />
+  <button text="paintbrush" image="/images/work_stationery/paint_brush.svg" />
+  <button text="paper" image="/images/work_stationery/paper.svg" />
+</row>
+<row>
+  <button text="pen" image="/images/work_stationery/pen.svg" />
+  <button text="pencil" image="/images/work_stationery/pencil.svg" />
+  <button text="scissors" image="/images/healthcare_grooming/scissors.svg" />
+  <button text="wrapping paper" image="/images/celebration_item/wrapping_paper.svg" />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button text="materials" image="/images/science/plastic.svg" link="/things/materials"/>
+</row>
+</keyboard>

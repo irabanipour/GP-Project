@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:lightgrey;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="I like it" image="/images/food_feeding/good_to_eat.svg" />
+  <button text="It's gross" image="/images/food_feeding/yucky.svg"/>
+  <button text="It's spicy" image="/images/food_feeding/spicy.svg" />
+  <button text="Cut up food" image="/images/kitchen_actions/chop_,_to.svg"/>
+</row>
+<row>
+  <button text="Can I have some more?" image="/images/descriptive_quantity/more.svg" style="cell-color:orange;"/>
+  <button text="Can I have a drink" image="/images/food_feeding/thirsty.svg" style="cell-color:orange;"/>
+  <button text="wipe my face" image="/images/healthcare_grooming/wash_face_,_to.svg" />
+  <button text="please" image="/images/descriptive_state/good.svg" />
+  <button text="thank you" image="/images/descriptive_state/great.svg" />
+</row>
+<row>
+  <button text="What's for dinner?" image="/images/food_feeding/dinner.svg" style="cell-color:orange;"/>
+  <button text="What have you been doing?" image="/images/descriptive_direction/point_,_to.svg" style="cell-color:orange;"/>
+  <button text="I've had enough" image="/images/descriptive_quantity/enough.svg" />
+  <button text="eat" image="/images/food_feeding/good_to_eat_2.svg" style="cell-color:hotpink;"/>
+  <button text="drink" image="/images/food_feeding/good_to_drink.svg" style="cell-color:hotpink;"/>
+</row>
+<row>
+  <button text="It's too hot" image="/images/descriptive_quantity/hot.svg"/>
+  <button text="It's too cold" image="/images/food_meals/dinner_cold.svg"/>
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

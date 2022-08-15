@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="computer" image="/images/electrical_computer/computer_2.svg" />
+  <button text="mouse" image="/images/electrical_computer/computer_mouse_2.svg" />
+  <button text="keyboard" image="/images/electrical_computer/computer_keyboard.svg" />
+  <button text="USB stick" image="/images/electrical_computer/usb_stick.svg"/>
+</row>
+<row>
+  <button text="printer" image="/images/electrical_computer/printer.svg"/>
+  <button text="email" image="/images/computer_icon/email.svg" />
+  <button text="iphone" image="/images/electrical_phone/iPhone.svg" />
+  <button text="monitor" image="/images/electrical_computer/computer_monitor.svg" />
+  <button text="website" />
+</row>
+<row>
+  <button text="ipad" image="/images/electrical_phone/iPhone.svg" />
+  <button text="speakers" image="/images/electrical_computer/computer_speaker.svg" />
+  <button text="joystick" image="/images/communication_aid/joystick_PennyGiles.svg" />
+  <button text="touch screen" image="/images/electrical_computer/touch_screen.svg" />
+  <button text="extension lead" image="/images/electrical_general/extension_lead.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button text="charger" image="/images/electrical_phone/charger_electric.svg" />
+</row>
+</keyboard>

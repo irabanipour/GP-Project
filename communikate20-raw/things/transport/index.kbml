@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="transport" image="/images/transport_rail/train.svg"/>
+  <button text="car" image="/images/transport_road/car_2.svg" />
+  <button text="train" image="/images/transport_rail/train.svg" />
+  <button text="bus" image="/images/transport_road/bus_single_decker.svg"/>
+</row>
+<row>
+  <button text="caravan" image="/images/transport_road/caravan.svg"/>
+  <button text="fire engine" image="/images/transport_road/fire_engine.svg" />
+  <button text="ambulance" image="/images/transport_road/ambulance.svg" />
+  <button text="ship" image="/images/transport_water/ferry.svg" />
+  <button text="airplane" image="/images/transport_air/aeroplane.svg" />
+</row>
+<row>
+  <button text="tractor" image="/images/transport_road/tractor.svg" />
+  <button text="lorry" image="/images/transport_road/lorry.svg" />
+  <button text="motor home" image="/images/transport_road/mini_bus.svg" />
+  <button text="bike" image="/images/transport_road/bicycle.svg" />
+  <button text="police car" image="/images/transport_road/police_car.svg" />
+</row>
+<row>
+  <button text="boat" image="/images/transport_water/boat.svg" />
+  <button text="bin lorry" image="/images/transport_road/refuse_lorry.svg" />
+  <button text="taxi" image="/images/transport_road/taxi.svg" />
+  <button text="underground" image="/images/transport_rail/underground_sign.svg" />
+  <button />
+</row>
+</keyboard>

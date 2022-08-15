@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="private parts" image="/images/healthcare_body/male_body.svg" />
+  <button text="bottom" image="/images/healthcare_body/bottom_3.svg" />
+  <button text="breasts" image="/images/healthcare_body/chest_female.svg" />
+  <button text="vagina" image="/images/healthcare_body/vagina.svg"/>
+</row>
+<row>
+  <button text="penis" image="/images/healthcare_body/penis.svg"/>
+  <button text="under arm hair" image="/images/healthcare_body/underarm_hair.svg" />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button text="horny" image="/images/healthcare_body/chest_female.svg" style="cell-color:cyan" />
+  <button text="love" image="/images/food_sweets/candy_hearts.svg" style="cell-color:hotpink" />
+  <button text="shared pleasure" image="/images/healthcare_body/female_body.svg" style="cell-color:hotpink" />
+  <button text="self pleasure" image="/images/healthcare_body/male_body.svg" style="cell-color:hotpink" />
+  <button text="kiss" image="/images/healthcare_body/lips_1.svg" style="cell-color:hotpink" />
+</row>
+</keyboard>

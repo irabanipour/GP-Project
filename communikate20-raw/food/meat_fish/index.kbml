@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="meat" image="/images/food_meat/meat.svg" />
+  <button text="bacon" image="/images/food_meat/bacon.svg" />
+  <button text="beef" image="/images/food_meat/beef.svg" />
+  <button text="tuna" image="/images/food_fish/tuna.svg" />
+</row>
+<row>
+  <button text="lamb" image="/images/food_meat/lamb.svg" />
+  <button text="ham" image="/images/food_meat/ham.svg" />
+  <button text="chicken" image="/images/food_poultry/chicken_breast.svg" />
+  <button text="pork chop" image="/images/food_meat/pork_chop.svg" />
+  <button text="meatballs" image="/images/food_meals/meatballs_and_spaghetti.svg" />
+</row>
+<row>
+  <button text="fish" image="/images/animal_fish/fish.svg" />
+  <button text="mince" image="/images/food_meat/minced_meat.svg" />
+  <button text="prawn" image="/images/animal_crustacean/prawn.svg" />
+  <button text="fish fingers" image="/images/food_meals/frozen_fish_fingers.svg" />
+  <button text="sausages" image="/images/food_meat/sausages.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

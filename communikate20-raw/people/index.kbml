@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:goldenrod;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="people" image="/images/work_timetable/assembly.svg" />
+  <button text="friends" image="/images/people_profession/care_assistant_1a.svg" link="friends"/>
+  <button text="School/college/work mates" image="/images/building_school/class_room.svg" link="work_mates"/>
+  <button text="Support staff" image="/images/people_profession/care_assistant_2a.svg" link="support_staff"/>
+</row>
+<row>
+  <button text="I'm" image="/images/people_descriptive/good_person.svg" />
+  <button text="me" image="/images/people_descriptive/good_person.svg" />
+  <button text="my" image="/images/people_descriptive/good_person.svg" />
+  <button text="mine" image="/images/people_descriptive/good_person.svg" />
+  <button text="Education staff" image="/images/people_profession/teacher_2a.svg" link="education_staff"/>
+</row>
+<row>
+  <button text="we" image="/images/work_timetable/assembly.svg" />
+  <button text="they" image="/images/work_timetable/assembly.svg" />
+  <button text="boy" image="/images/people_descriptive/handsome.svg" />
+  <button text="girl" image="/images/people_descriptive/hair_ponytail.svg" />
+  <button text="Job" image="/images/people_relationship/family_2.svg" link="job"/>
+</row>
+<row>
+  <button text="it" image="/images/descriptive_position/bottom.svg" />
+  <button text="you" image="/images/descriptive_direction/point_,_to.svg" />
+  <button text="he" image="/images/people_descriptive/handsome.svg" />
+  <button text="she" image="/images/people_descriptive/hair_ponytail.svg" />
+  <button text="Family" image="/images/people_relationship/family.svg" link="family"/>
+</row>
+</keyboard>

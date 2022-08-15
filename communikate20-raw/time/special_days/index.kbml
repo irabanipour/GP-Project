@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:dodgerblue;
+  color:white;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="Special day" image="/images/descriptive_time/calendar_month.svg" />
+  <button text="New year" image="/images/celebration_item/fireworks_2.svg" />
+  <button text="Valentines day" image="/images/descriptive_shape/heart_shape.svg" />
+  <button text="Bank holiday" image="/images/people_actions/relax_3_,_to.svg" />
+</row>
+<row>
+  <button text="Easter" image="/images/celebration_event/Easter_egg_hunt.svg" />
+  <button text="birthday" image="/images/celebration_event/celebrate_birthday.svg" />
+  <button text="holiday" image="/images/people_actions/relax_3_,_to.svg" />
+  <button text="wedding" image="/images/people_relationship/married.svg" />
+  <button text="Bonfire night" image="/images/celebration_event/Bonfire_Night.svg" />
+</row>
+<row>
+  <button text="Halloween" image="/images/celebration_event/Halloween.svg" />
+  <button text="Christmas" image="/images/religion_festival/Christmas.svg" link="christmas"/>
+  <button text="party" image="/images/celebration_event/party_celebration.svg" />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

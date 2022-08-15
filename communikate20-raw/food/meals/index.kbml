@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="meal" image="/images/food_feeding/dinner.svg" />
+  <button text="pasty" image="/images/food_meals/pastie.svg" />
+  <button text="spaghetti" image="/images/food_meals/spaghetti_bolognaise.svg" />
+  <button text="pasta" image="/images/food_pastas/pasta.svg" />
+</row>
+<row>
+  <button text="stew" image="/images/food_meals/casserole_1.svg" />
+  <button text="pizza" image="/images/food_meals/pizza.svg" />
+  <button text="roast dinner" image="/images/food_meals/roast_dinner.svg" />
+  <button text="chinese food" image="/images/food_meals/chinese_food.svg" />
+  <button text="curry" image="/images/food_meals/curry.svg" />
+</row>
+<row>
+  <button text="rice" image="/images/food_pastas/rice.svg" />
+  <button text="noodles" image="/images/food_pastas/noodles.svg" />
+  <button text="pie" image="/images/food_breads/pie.svg" />
+  <button text="lasgna" image="/images/food_pastas/lasagne.svg" />
+  <button text="ravioli" image="/images/food_pastas/ravioli.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button text="macaroni cheese" image="/images/food_meals/macaroni_cheese.svg" />
+  <button />
+  <button />
+</row>
+</keyboard>

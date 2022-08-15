@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" />
+  <button text="soap" image="/images/healthcare_grooming/soap.svg" />
+  <button text="toothbrush" image="/images/healthcare_grooming/toothbrush.svg" />
+  <button text="toothpaste" image="/images/healthcare_grooming/toothpaste.svg" />
+</row>
+<row>
+  <button text="bubble bath" image="/images/healthcare_grooming/bubble_bath.svg" />
+  <button text="deodorant" image="/images/healthcare_grooming/deodorant.svg" />
+  <button text="shampoo" image="/images/healthcare_grooming/shampoo.svg" />
+  <button text="conditioner" image="/images/healthcare_grooming/hair_conditioner.svg" />
+  <button text="make-up" image="/images/healthcare_grooming/make_up.svg" />
+</row>
+<row>
+  <button text="razor" image="/images/healthcare_grooming/razor_electric.svg" />
+  <button text="shaving foam" image="/images/healthcare_grooming/shaving_cream.svg" />
+  <button text="aftershave" image="/images/healthcare_grooming/perfume.svg" />
+  <button text="toilet roll" image="/images/healthcare_grooming/toilet_roll.svg" />
+  <button text="sanitary items" image="/images/healthcare_grooming/sanitary_towel.svg" />
+</row>
+<row>
+  <button text="hairdryer" image="/images/healthcare_grooming/hairdryer.svg"/>
+  <button text="comb" image="/images/healthcare_grooming/comb.svg" />
+  <button text="brush" image="/images/healthcare_grooming/hairbrush.svg" />
+  <button text="hairspray" image="/images/healthcare_grooming/hairspray.svg" />
+  <button text="hair dye" image="/images/healthcare_grooming/hair_dye.svg" />
+</row>
+</keyboard>

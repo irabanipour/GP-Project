@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="furniture" image="/images/building_furniture/furniture.svg" />
+  <button text="bean bag" image="/images/leisure_toys/beanbag.svg" />
+  <button text="table" image="/images/building_furniture/table_2.svg" />
+  <button text="pillow" image="/images/building_furniture/double_bed.svg"/>
+</row>
+<row>
+  <button text="wardrobe" image="/images/building_furniture/wardrobe.svg"/>
+  <button text="toilet" image="/images/healthcare_grooming/toilet.svg" />
+  <button text="TV" image="/images/electrical_tv/switch_on_television_,_to.svg" />
+  <button text="shelf" image="/images/building_furniture/book_shelf.svg" />
+  <button text="bed" image="/images/building_furniture/single_bed.svg" />
+</row>
+<row>
+  <button text="cupboard" image="/images/building_furniture/cupboard.svg" />
+  <button text="sink" image="/images/kitchen_items/sink.svg" />
+  <button text="drawer" image="/images/building_furniture/drawer.svg" />
+  <button text="couch" image="/images/building_furniture/settee_1.svg" />
+  <button text="picture" image="/images/building_furniture/picture.svg" />
+</row>
+<row>
+  <button text="blanket" image="/images/building_contents/blanket.svg" />
+  <button text="bath" image="/images/building_contents/bath.svg" />
+  <button text="lamp" image="/images/electrical_general/lamp.svg" />
+  <button text="chair" image="/images/building_furniture/chair_dining.svg" />
+  <button text="sheets" image="/images/building_household/make_the_bed_,_to.svg" />
+</row>
+</keyboard>

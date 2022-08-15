@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:orange;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="What's your name?" image="/images/question/who.svg" />
+  <button text="Where do you live?" image="/images/question/where_1.svg" />
+  <button text="When's your Birthday?" image="/images/celebration_event/celebrate_birthday.svg" />
+  <button text="How old are you?" image="/images/people_descriptive/old_person_3.svg" />
+</row>
+<row>
+  <button text="Who do you live with?" image="/images/building_residential/house.svg" />
+  <button text="Do you have a pet?" image="/images/animal_habitat/goldfish_bowl.svg" />
+  <button text="Tell me about your day?" image="/images/building_school/school.svg" />
+  <button text="What's your email?" image="/images/computer_icon/email.svg" />
+  <button text="Where do you work?" image="/images/work_subjects/group_work.svg" />
+</row>
+<row>
+  <button text="What's your mobile number?" image="/images/electrical_phone/mobile_phone.svg" />
+  <button text="What music do you like?" image="/images/work_subjects/music.svg" />
+  <button text="What films do you like?" image="/images/electrical_tv/comedy_tv.svg" />
+  <button text="What's your hobby?" image="/images/leisure_toys/ball_beach.svg" />
+  <button text="What TV do you like?" image="/images/electrical_tv/change_tv_channel_,_to.svg" />
+</row>
+<row>
+  <button text="Do you have a disability?" image="/images/communication_signs/disabled_sign.svg" />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:orange;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="Questions" image="/images/question/how.svg" />
+  <button text="why" image="/images/question/why.svg" />
+  <button text="when" image="/images/question/when.svg" />
+  <button text="could" style="font-size:22;font-weight:bold;" />
+</row>
+<row>
+  <button text="what" image="/images/question/what.svg" />
+  <button text="who" image="/images/question/who.svg" />
+  <button text="where" image="/images/question/where.svg" />
+  <button text="which" image="/images/question/which.svg" />
+  <button text="would" style="font-size:22;font-weight:bold;" />
+</row>
+<row>
+  <button text="how" image="/images/question/how.svg" />
+  <button text="Can I see that?" image="/images/people_descriptive/good_person.svg"/>
+  <button text="How much?" image="/images/money/money.svg"/>
+  <button />
+  <button text="should" style="font-size:22;font-weight:bold;" />
+</row>
+<row>
+  <button text="How are you?" image="/images/people_descriptive/funny_laugh.svg" />
+  <button text="What have you been doing?" image="/images/work_subjects/group_work.svg"/>
+  <button text="What do you think?" image="/images/descriptive_direction/point_,_to.svg" />
+  <button text="What's next?" image="/images/descriptive_position/next.svg" />
+  <button text="What's that?" image="/images/descriptive_shape/triangle_equilateral.svg" />
+</row>
+</keyboard>

@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  font-size:16;
+  cell-color:lime;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="Position words" image="/images/descriptive_position/in.svg" link="position_words"/>
+  <button text="fun" image="/images/celebration_event/celebration.svg" style="cell-color:yellow" />
+  <button text="away" image="/images/people_actions/exit_door_,_to.svg" />
+  <button text="a" style="cell-color:pink;font-size:28;" />
+</row>
+<row>
+  <button text="all" image="/images/descriptive_state/spotty.svg" style="cell-color:yellow" />
+  <button text="this" style="font-size:28" />
+  <button text="that" style="font-size:28" />
+  <button text="is" style="cell-color:hotpink;font-size:28" />
+  <button text="am" style="cell-color:hotpink;font-size:28;" />
+</row>
+<row>
+  <button text="none" image="/images/descriptive_state/spotty.svg" />
+  <button text="to" style="font-size:28" />
+  <button text="from" style="font-size:28" />
+  <button text="about" image="/images/work_education/work_book.svg" style="cell-color:yellow" />
+  <button text="be" style="cell-color:hotpink;font-size:28" />
+</row>
+<row>
+  <button text="some" image="/images/descriptive_state/spotty.svg"/>
+  <button text="with" image="/images/descriptive_quantity/some.svg"/>
+  <button text="and" style="cell-color:pink;font-size:28" />
+  <button text="at" image="/images/computer_icon/at_key.svg" style="cell-color:pink;" />
+  <button text="the" style="cell-color:pink;font-size:28" />
+</row>
+</keyboard>

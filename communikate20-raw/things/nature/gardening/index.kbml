@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="gardening" image="/images/plants_trees/tree.svg" />
+  <button text="flowers" image="/images/plants_trees/flower.svg" />
+  <button text="grass" image="/images/plants_trees/grass.svg" />
+  <button text="bud" image="/images/plants_trees/bud.svg" />
+</row>
+<row>
+  <button text="lawn mower" image="/images/tools_garden/lawnmower.svg" />
+  <button text="leaves" image="/images/plants_trees/leaves.svg" />
+  <button text="petal" image="/images/plants_trees/petal.svg" />
+  <button text="branch" image="/images/plants_trees/branch.svg" />
+  <button text="tree" image="/images/plants_trees/tree.svg" />
+</row>
+<row>
+  <button text="hose" image="/images/tools_garden/hose.svg" />
+  <button text="seeds" image="/images/plants_trees/seeds.svg" />
+  <button text="hedge cutters" image="/images/tools_garden/hedge_cutters.svg" />
+  <button text="plant" image="/images/plants_trees/plant.svg" />
+  <button text="hedge" image="/images/plants_trees/hedge.svg" />
+</row>
+<row>
+  <button text="clippers" image="/images/tools_garden/garden_clippers.svg" />
+  <button text="shovel" image="/images/leisure_toys/spade.svg" />
+  <button text="pot" image="/images/tools_garden/pot.svg" />
+  <button text="rake" image="/images/tools_garden/rake.svg" />
+  <button text="trowel" image="/images/tools_garden/trowel.svg" />
+</row>
+</keyboard>

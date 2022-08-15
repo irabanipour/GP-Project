@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:goldenrod;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="job" image="/images/people_relationship/family_2.svg" />
+  <button text="driver" image="/images/people_profession/taxi_driver_1a.svg"/>
+  <button text="PA" image="/images/people_profession/care_assistant_4b.svg"/>
+  <button text="cleaner" image="/images/people_profession/cleaner_1b.svg"/>
+</row>
+<row>
+  <button text="doctor" image="/images/people_profession/doctor_1a.svg" />
+  <button text="SLT" image="/images/people_profession/speech_language_therapist_1a.svg" />
+  <button text="dentist" image="/images/people_profession/dentist_1a.svg" />
+  <button text="nurse" image="/images/people_profession/nurse_2b.svg" />
+  <button text="police officer" image="/images/people_profession/police_1b.svg"/>
+</row>
+<row>
+  <button text="post person" image="/images/people_profession/post_person_1b.svg" />
+  <button text="pilot" image="/images/people_profession/air_person_2b.svg" />
+  <button text="handy person" image="/images/people_profession/carpenter_1a.svg" />
+  <button text="OT" image="/images/people_profession/occupational_therapist_1a.svg" />
+  <button text="physio" image="/images/people_profession/physio_therapist_2a.svg"/>
+</row>
+<row>
+  <button text="machanic" image="/images/people_profession/car_mechanic_2b.svg" />
+  <button text="caretaker" image="/images/people_profession/caretaker_1b.svg" />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

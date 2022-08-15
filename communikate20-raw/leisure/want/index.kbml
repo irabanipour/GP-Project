@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:hotpink;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;" action="home"/>
+  <button text="to go outside" image="/images/descriptive_position/outside.svg" />
+  <button text="to call someone" image="/images/electrical_phone/mobile_phone.svg" />
+  <button text="to sit down" image="/images/electrical_computer/sit_at_computer_,_to_2.svg" />
+  <button text="to stand up" image="/images/people_descriptive/good_person.svg" />
+</row>
+<row>
+  <button text="to do something else" image="/images/healthcare_body/fist.svg" />
+  <button text="to watch something" image="/images/people_feelings/face_neutral_3.svg" />
+  <button text="to go on holiday" image="/images/people_actions/relax_3_,_to.svg" />
+  <button text="to have a go" image="/images/transport_road/traffic_lights.svg" />
+  <button />
+</row>
+<row>
+  <button text="to play" image="/images/leisure_toys/toys.svg" />
+  <button text="to listen to something" image="/images/healthcare_body/ear.svg" />
+  <button text="to go swimming" image="/images/sport/swim_,_to.svg" />
+  <button />
+  <button text="to cook something" image="/images/kitchen_actions/cook_,_to.svg" />
+</row>
+<row>
+  <button text="My stories" image="/images/people_descriptive/funny_laugh.svg" style="cell-color:lightpink;" />
+  <button />
+  <button />
+  <button />
+  <button text="to go Home" image="/images/building_residential/house.svg" />
+</row>
+</keyboard>

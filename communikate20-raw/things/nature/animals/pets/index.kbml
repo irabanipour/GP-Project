@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="pet" image="/images/animal_mammal/dog.svg" />
+  <button text="cat" image="/images/animal_mammal/cat.svg" />
+  <button text="hamster" image="/images/animal_mammal/hamster.svg" />
+  <button text="mouse" image="/images/animal_mammal/mouse.svg" />
+</row>
+<row>
+  <button text="guinea pig" image="/images/animal_mammal/guinea_pig.svg" />
+  <button text="rabbit" image="/images/animal_mammal/rabbit.svg" />
+  <button text="horse" image="/images/animal_mammal/horse.svg" />
+  <button text="fish" image="/images/animal_fish/goldfish.svg" />
+  <button text="rat" image="/images/animal_mammal/rat.svg" />
+</row>
+<row>
+  <button text="dog" image="/images/animal_mammal/dog.svg" />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

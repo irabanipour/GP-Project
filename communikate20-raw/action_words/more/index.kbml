@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  font-size:16;
+  cell-color:hotpink;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="feel" image="/images/science/smooth.svg" />
+  <button text="read" image="/images/work_education/work_book.svg" />
+  <button text="sit" image="/images/electrical_computer/sit_at_computer_,_to_2.svg" />
+  <button text="stand" image="/images/sport/exercise_,_to.svg" />
+</row>
+<row>
+  <button text="wait" image="/images/healthcare_body/left_hand.svg" />
+  <button text="watch" image="/images/healthcare_body/pupil.svg" />
+  <button text="work" image="/images/work_subjects/group_work.svg" />
+  <button text="have" image="/images/healthcare_body/fist.svg" />
+  <button text="know" image="/images/descriptive_state/good.svg" />
+</row>
+<row>
+  <button text="play" image="/images/leisure_toys/shape_puzzle.svg" />
+  <button text="sing" image="/images/people_profession/singer_1a.svg" />
+  <button text="sleep" image="/images/building_furniture/single_bed.svg" />
+  <button text="talk" image="/images/people_feelings/laughing_lady.svg" />
+  <button text="try" image="/images/descriptive_direction/point_,_to.svg" />
+</row>
+<row>
+  <button text="win" image="/images/sport/winner.svg"/>
+  <button text="lose" image="/images/descriptive_position/last_2.svg"/>
+  <button text="finish" image="/images/descriptive_direction/finish.svg" />
+  <button text="need" image="/images/healthcare_body/fist.svg" />
+  <button text="More action words" image="/images/tools_actions/work_,_to.svg" link="more"/>
+</row>
+</keyboard>

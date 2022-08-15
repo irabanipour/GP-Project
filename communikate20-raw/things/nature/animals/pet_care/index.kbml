@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="pet care" image="/images/animal_activity/comb_animal_,_to.svg" />
+  <button text="dog food" image="/images/animal_activity/dog_food.svg" />
+  <button text="cat food" image="/images/animal_activity/cat_food.svg" />
+  <button text="fish food" image="/images/animal_activity/fish_food.svg" />
+</row>
+<row>
+  <button text="collar" image="/images/animal_activity/collar_pet.svg" />
+  <button text="pet comb" image="/images/animal_activity/pet_brush.svg" />
+  <button text="pet blanket" image="/images/animal_activity/pet_blanket.svg" />
+  <button text="pet bed" image="/images/animal_habitat/cat_bed.svg" />
+  <button text="fish tank" image="/images/animal_habitat/fish_tank.svg" />
+</row>
+<row>
+  <button text="treat" image="/images/animal_activity/dog_chew.svg" />
+  <button text="lead" image="/images/animal_activity/lead.svg" />
+  <button text="kennel" image="/images/animal_habitat/dog_kennel.svg" />
+  <button text="pet carrier" image="/images/animal_habitat/pet_carrier.svg" />
+  <button text="pet food" image="/images/animal_activity/food_bowl_dog.svg" />
+</row>
+<row>
+  <button text="bird feeder" image="/images/animal_habitat/bird_feeder.svg" />
+  <button text="care for pet" image="/images/animal_activity/comb_animal_,_to.svg" style="cell-color:hotpink" />
+  <button text="feed pet" image="/images/animal_activity/feed_cat_,_to.svg" style="cell-color:hotpink" />
+  <button text="walk the dog" image="/images/animal_activity/walk_dog_,_to.svg" style="cell-color:hotpink" />
+  <button text="cage" image="/images/animal_habitat/cage.svg" />
+</row>
+</keyboard>

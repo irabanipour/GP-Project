@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:purple;
+  color:white;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="home" image="/images/building_residential/house.svg" />
+  <button text="cellar" image="/images/animal_habitat/spiders_web.svg" />
+  <button text="dining room" image="/images/building_furniture/dining_table.svg" />
+  <button text="hall" />
+</row>
+<row>
+  <button text="attic" image="/images/holiday_travel/suitcase_2.svg" />
+  <button text="bathroom" image="/images/healthcare_grooming/toilet.svg" />
+  <button text="lounge" image="/images/building_furniture/settee_1.svg" />
+  <button text="study" image="/images/building_furniture/book_shelf.svg" />
+  <button text="bedroom" image="/images/building_furniture/single_bed.svg" />
+</row>
+<row>
+  <button text="kitchen" image="/images/kitchen_actions/cook_,_to.svg" />
+  <button text="my room" image="/images/people_descriptive/good_person.svg" />
+  <button text="utility room" image="/images/building_household/wash_clothes_,_to.svg" />
+  <button text="play room" image="/images/leisure_toys/toy_box.svg" />
+  <button />
+</row>
+<row>
+  <button text="up stairs" image="/images/building_structure/stairs.svg" />
+  <button text="down stairs" image="/images/building_structure/stairs.svg" />
+  <button text="stairs" image="/images/building_structure/stairs.svg" />
+  <button text="office" image="/images/building_furniture/chair_computer.svg" />
+  <button />
+</row>
+</keyboard>

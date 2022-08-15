@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="tomato sauce" image="/images/food_ingredients/sauce_tomato.svg" />
+  <button text="mayonaisse" image="/images/food_dairy/mayonnaise.svg"/>
+  <button text="peanut butter" image="/images/food_ingredients/peanut_butter.svg" />
+  <button text="pepper" image="/images/kitchen_items/pepper_mill.svg"/>
+</row>
+<row>
+  <button text="salt" image="/images/kitchen_items/salt.svg" />
+  <button text="gravy" image="/images/kitchen_items/gravy_boat.svg" />
+  <button text="sugar" image="/images/food_ingredients/sugar_white.svg" />
+  <button text="jam" image="/images/food_sweets/jam.svg" />
+  <button text="brown sauce" image="/images/food_ingredients/sauce_brown.svg" />
+</row>
+<row>
+  <button text="vinegar" image="/images/food_ingredients/vinegar.svg" />
+  <button text="spices" image="/images/food_feeding/spicy.svg" />
+  <button text="honey" image="/images/food_ingredients/honey.svg" />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

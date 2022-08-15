@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  font-size:16;
+  cell-color:lime;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="up" image="/images/descriptive_direction/up.svg" />
+  <button text="down" image="/images/descriptive_direction/down.svg"/>
+  <button text="in" image="/images/descriptive_position/in.svg" />
+  <button text="out" image="/images/descriptive_direction/out.svg" />
+</row>
+<row>
+  <button />
+  <button text="here" />
+  <button text="there" />
+  <button text="on" image="/images/descriptive_position/on.svg" />
+  <button text="off" image="/images/descriptive_position/off.svg" />
+</row>
+<row>
+  <button text="middle" image="/images/descriptive_position/middle.svg" />
+  <button text="top" image="/images/descriptive_position/top_2.svg" />
+  <button text="bottom" image="/images/descriptive_position/bottom_2.svg" />
+  <button text="under" image="/images/descriptive_position/under_1.svg" />
+  <button text="over" image="/images/descriptive_position/over.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:dodgerblue;
+  color:white;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="month" image="/images/descriptive_time/calendar_month.svg" />
+  <button text="this month" image="/images/descriptive_time/this_month.svg" />
+  <button text="next month" image="/images/descriptive_time/next_month.svg" />
+  <button text="last month" image="/images/descriptive_time/last_month.svg" />
+</row>
+<row>
+  <button text="January" image="/images/celebration_item/fireworks_2.svg" />
+  <button text="February" image="/images/descriptive_shape/heart_shape.svg" />
+  <button text="March" />
+  <button text="April" />
+  <button text="May" />
+</row>
+<row>
+  <button text="June" />
+  <button text="July" />
+  <button text="August" image="/images/people_actions/relax_3_,_to.svg" />
+  <button text="September" />
+  <button text="October" image="/images/celebration_event/Halloween.svg" />
+</row>
+<row>
+  <button text="November" image="/images/celebration_event/Bonfire_Night.svg" />
+  <button text="December" image="/images/religion_festival/Christmas.svg" />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

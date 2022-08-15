@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:cyan;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="weather" image="/images/descriptive_time/sun.svg" />
+  <button text="rain" image="/images/environment_weather/rain.svg" />
+  <button text="sun" image="/images/descriptive_time/sun.svg" />
+  <button text="snow" image="/images/environment_weather/snow.svg" />
+</row>
+<row>
+  <button text="It is" image="/images/descriptive_position/bottom.svg" />
+  <button text="wind" image="/images/descriptive_time/autumn.svg" />
+  <button text="cloudy" image="/images/environment_weather/cloudy.svg" />
+  <button text="foggy" />
+  <button text="freezing" image="/images/environment_weather/snow.svg" />
+</row>
+<row>
+  <button text="icey" image="/images/descriptive_time/winter.svg" />
+  <button text="stormy" image="/images/environment_weather/thunder_storm.svg" />
+  <button />
+  <button />
+  <button />
+</row>
+<row>
+  <button text="hot" image="/images/people_descriptive/hot_person.svg" />
+  <button text="cold" image="/images/descriptive_time/winter.svg" />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

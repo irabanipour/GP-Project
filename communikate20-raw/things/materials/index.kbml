@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="material" image="/images/science/plastic.svg" />
+  <button text="wood" image="/images/tools_workshop/wood.svg" />
+  <button text="plastic" image="/images/science/plastic.svg" />
+  <button text="fabric" image="/images/science/fabric.svg"/>
+</row>
+<row>
+  <button text="metal" image="/images/money/gold_bar.svg"/>
+  <button text="sponge" image="/images/healthcare_grooming/sponge.svg" />
+  <button text="glass" image="/images/science/glass.svg" />
+  <button text="stone" image="/images/plants_trees/stone.svg" />
+  <button text="string" image="/images/building_contents/string.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button text="paper" image="/images/work_stationery/paper.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="spoon" image="/images/kitchen_items/spoon.svg" />
+  <button text="knife" image="/images/kitchen_items/knife.svg" />
+  <button text="fork" image="/images/kitchen_items/fork.svg" />
+  <button text="pan" image="/images/kitchen_items/saucepan.svg"/>
+</row>
+<row>
+  <button text="bowl" image="/images/kitchen_items/bowl.svg"/>
+  <button text="dish cloth" image="/images/kitchen_items/dish_cloth.svg" />
+  <button text="tea towel" image="/images/kitchen_items/tea_towel.svg" />
+  <button text="apron" image="/images/tools_workshop/apron.svg" />
+  <button text="sink" image="/images/building_contents/sink_2.svg" />
+</row>
+<row>
+  <button text="fridge" image="/images/kitchen_items/fridge.svg" />
+  <button text="frying pan" image="/images/kitchen_items/frying_pan.svg" />
+  <button text="plate" image="/images/kitchen_items/plate.svg" />
+  <button text="cooker" image="/images/kitchen_items/cooker.svg" />
+  <button text="measuring jug" image="/images/kitchen_items/measuring_jug.svg" />
+</row>
+<row>
+  <button text="cup" image="/images/drink_containers/mug_2.svg" />
+  <button text="chopping board" image="/images/kitchen_items/chopping_board.svg" />
+  <button text="collander" image="/images/kitchen_items/colander.svg" />
+  <button text="grater" image="/images/kitchen_items/grater.svg" />
+  <button />
+</row>
+</keyboard>

@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:goldenrod;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="Dad" image="/images/people_relationship/dad_parent.svg" />
+  <button text="Mum" image="/images/people_relationship/mum_parent.svg" />
+  <button text="lady" image="/images/people_feelings/lady_-_face.svg" />
+  <button text="man" image="/images/people_feelings/man_-_face.svg" />
+</row>
+<row>
+  <button text="family" image="/images/people_relationship/family.svg" />
+  <button text="brother" image="/images/people_relationship/brother.svg" />
+  <button text="sister" image="/images/people_relationship/sister.svg" />
+  <button text="baby" image="/images/people_descriptive/baby.svg" />
+  <button text="child" image="/images/people_descriptive/hair_ponytail.svg" />
+</row>
+<row>
+  <button />
+  <button text="Grandad" image="/images/people_relationship/grandfather.svg" />
+  <button text="Granma" image="/images/people_relationship/grandmother.svg" />
+  <button />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

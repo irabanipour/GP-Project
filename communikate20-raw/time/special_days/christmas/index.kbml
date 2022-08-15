@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:dodgerblue;
+  color:white;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="Christmas" image="/images/religion_festival/Christmas.svg" />
+  <button text="Christmas day" image="/images/descriptive_time/day.svg" />
+  <button text="Christmas eve" image="/images/descriptive_time/yesterday.svg" />
+  <button text="Father Christmas" image="/images/celebration_item/Father_Christmas.svg" />
+</row>
+<row>
+  <button text="Christmas pudding" image="/images/food_breads/Christmas_pudding.svg" />
+  <button text="lights" image="/images/celebration_item/Christmas_lights.svg" />
+  <button text="Christmas cake" image="/images/food_breads/Christmas_cake.svg" />
+  <button text="Christmas sack" image="/images/celebration_item/Father_Christmas_sack.svg" />
+  <button text="stocking" image="/images/celebration_item/Christmas_sock.svg" />
+</row>
+<row>
+  <button text="decorations" image="/images/celebration_item/Christmas_decorations.svg" />
+  <button text="Christmas tree" image="/images/celebration_item/Christmas_tree.svg" />
+  <button text="Christmas hat" image="/images/celebration_item/hat_Christmas.svg" />
+  <button text="gift" image="/images/celebration_item/present.svg" />
+  <button />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

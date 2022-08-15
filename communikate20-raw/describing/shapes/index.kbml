@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:cyan;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="shape" image="/images/descriptive_shape/shapes.svg" />
+  <button text="star" image="/images/descriptive_shape/star_2.svg" />
+  <button text="triangle" image="/images/descriptive_shape/triangle_equilateral.svg" />
+  <button text="square" image="/images/descriptive_shape/square.svg" />
+</row>
+<row>
+  <button text="rectangle" image="/images/descriptive_shape/rectangle.svg" />
+  <button text="circle" image="/images/descriptive_shape/circle.svg" />
+  <button text="hexagon" image="/images/descriptive_shape/hexagon.svg" />
+  <button text="pentagon" image="/images/descriptive_shape/pentagon.svg" />
+  <button text="oval" image="/images/descriptive_shape/oval.svg" />
+</row>
+<row>
+  <button text="diamond" image="/images/descriptive_shape/diamond.svg" />
+  <button text="heart" image="/images/descriptive_shape/heart_shape.svg" />
+  <button text="line" image="/images/descriptive_shape/line_diagonal.svg" />
+  <button text="curve" />
+  <button />
+</row>
+<row>
+  <button text="sphere" />
+  <button text="cube" />
+  <button text="cylinder" />
+  <button />
+  <button />
+</row>
+</keyboard>

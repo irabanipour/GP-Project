@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="tools" image="/images/tools_workshop/drill_electric.svg"/>
+  <button text="clamp" image="/images/tools_workshop/clamp.svg" />
+  <button text="drill" image="/images/tools_workshop/drill_electric.svg" />
+  <button text="torch" image="/images/electrical_general/torch.svg"/>
+</row>
+<row>
+  <button text="goggles" image="/images/tools_workshop/safety_goggles.svg"/>
+  <button text="hammer" image="/images/tools_workshop/hammer.svg" />
+  <button text="hardhat" image="/images/clothes_general/hard_hat.svg" />
+  <button text="drill bit" image="/images/tools_workshop/drill_bit.svg" />
+  <button text="pliers" image="/images/tools_workshop/pliers.svg" />
+</row>
+<row>
+  <button text="sandpaper" image="/images/tools_workshop/sandpaper.svg" />
+  <button text="wrench" image="/images/tools_workshop/wrench.svg" />
+  <button text="screwdriver" image="/images/tools_workshop/screwdriver.svg" />
+  <button text="chisel" image="/images/tools_workshop/chisel.svg" />
+  <button text="extension lead" image="/images/electrical_general/extension_lead.svg" />
+</row>
+<row>
+  <button text="screw" image="/images/tools_workshop/screw.svg" />
+  <button />
+  <button />
+  <button />
+  <button text="materials" image="/images/science/plastic.svg" link="/things/materials"/>
+</row>
+</keyboard>

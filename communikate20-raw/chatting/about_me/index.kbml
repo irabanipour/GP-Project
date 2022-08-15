@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:lightgrey;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="Name" image="/images/people_descriptive/good_person.svg" />
+  <button text="I live in" image="/images/building_residential/house.svg" />
+  <button text="Birthday" image="/images/celebration_event/celebrate_birthday.svg" />
+  <button text="age" image="/images/people_descriptive/old_person_3.svg" />
+</row>
+<row>
+  <button text="I live with" image="/images/building_residential/house.svg" />
+  <button text="pet" image="/images/animal_habitat/goldfish_bowl.svg" />
+  <button text="School / college" image="/images/building_school/school.svg" />
+  <button text="email" image="/images/computer_icon/email.svg" />
+  <button text="work" image="/images/work_subjects/group_work.svg" />
+</row>
+<row>
+  <button text="Communication aid" image="/images/communication_aid/communication_aid_techspeak_32.svg" />
+  <button text="music" image="/images/work_subjects/music.svg" />
+  <button text="film" image="/images/electrical_tv/comedy_tv.svg" />
+  <button text="hobby" image="/images/leisure_toys/ball_beach.svg" />
+  <button text="TV" image="/images/electrical_tv/change_tv_channel_,_to.svg" />
+</row>
+<row>
+  <button text="disability" image="/images/communication_signs/disabled_sign.svg" />
+  <button text="mobile" image="/images/electrical_phone/mobile_phone.svg"/>
+  <button text="Tell me about you" image="/images/people_feelings/serene_man.svg" style="cell-color:orange" link="/chatting/about_you"/>
+  <button />
+  <button />
+</row>
+</keyboard>

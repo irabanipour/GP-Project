@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  font-size:16;
+  cell-color:pink;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="I need the toilet" image="/images/communication_conversation/need_toilet.svg" />
+  <button text="I need some help" image="/images/people_profession/care_assistant_2b.svg" />
+  <button text="I don't feel well" image="/images/medical_conditions/stomach_ache.svg" link="not_well" action="say" style="cell-color:yellow" />
+  <button text="body parts" image="/images/healthcare_body/body_outline.svg" style="cell-color:yellow" link="body_parts" />
+</row>
+<row>
+  <button text="clothes" image="/images/clothes_general/clothes_generic.svg" style="cell-color:yellow" link="clothes"/>
+  <button text="I want to chill out on my bed" image="/images/building_furniture/single_bed.svg" />
+  <button text="I'd like a shave" image="/images/healthcare_grooming/shave_,_to.svg" />
+  <button text="I need my medication" image="/images/medical_items/medicine.svg" />
+  <button text="Please can you clean my glasses" image="/images/medical_items/glasses.svg" />
+</row>
+<row>
+  <button text="Can you do my nails please" image="/images/healthcare_grooming/nail_care.svg" />
+  <button text="I'd like a shower" image="/images/healthcare_grooming/shower_1_,_to.svg" />
+  <button text="I'd love a bath" image="/images/clothes_general/clothes_generic.svg" />
+  <button text="I've got a problem with my" image="/images/communication_aid/wheelchair_and_switch_mount.svg" style="cell-color:yellow" link="/things/help" />
+  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" style="cell-color:yellow" link="/things/toiletries" />
+</row>
+<row>
+  <button text="I need to get changed" image="/images/healthcare_grooming/undress_,_to.svg"/>
+  <button />
+  <button text="Can you do my hair please" image="/images/healthcare_grooming/dry_hair_2_,_to.svg" />
+  <button />
+  <button />
+</row>
+</keyboard>

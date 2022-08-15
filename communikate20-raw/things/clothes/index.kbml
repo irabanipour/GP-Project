@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="jeans" image="/images/clothes_general/jeans.svg" />
+  <button text="trousers" image="/images/clothes_general/trousers.svg" />
+  <button text="t-shirt" image="/images/clothes_general/t-shirt.svg" />
+  <button text="jumper" image="/images/clothes_general/jumper.svg"/>
+</row>
+<row>
+  <button text="colours" image="/images/art_colour/colour.svg" style="cell-color:cyan;" link="/describing/colours"/>
+  <button text="skirt" image="/images/clothes_general/skirt.svg" />
+  <button text="dress" image="/images/clothes_general/dress.svg" />
+  <button text="swimming things" image="/images/clothes_sport/swimming_costume.svg" />
+  <button text="bra" image="/images/clothes_general/bra.svg" />
+</row>
+<row>
+  <button text="hat" image="/images/clothes_general/bobble_hat.svg" />
+  <button text="coat" image="/images/clothes_general/raincoat.svg" />
+  <button text="shoes" image="/images/clothes_general/shoe_-_ladies.svg" />
+  <button text="socks" image="/images/clothes_general/socks.svg" />
+  <button text="gloves" image="/images/clothes_general/gloves.svg" />
+</row>
+<row>
+  <button text="dressing gown" image="/images/clothes_general/dressing_gown.svg" />
+  <button text="PJ's" image="/images/clothes_general/pyjamas.svg" />
+  <button text="slippers" image="/images/clothes_general/slippers.svg" />
+  <button text="boxer shorts" image="/images/clothes_general/boxer_shorts.svg" />
+  <button text="pants" image="/images/clothes_general/knickers.svg" />
+</row>
+</keyboard>

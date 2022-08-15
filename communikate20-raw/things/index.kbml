@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="Things" image="/images/building_furniture/dining_table.svg" link="things"/>
+  <button text="art things" image="/images/art_making/craft_table.svg" link="art_things"/>
+  <button text="health" image="/images/medical_conditions/stomach_ache.svg" link="health"/>
+  <button text="body parts" image="/images/healthcare_body/body_outline.svg" link="/personal_care/body_parts"/>
+</row>
+<row>
+  <button text="clothes" image="/images/clothes_general/clothes_generic.svg" link="clothes"/>
+  <button text="computer" image="/images/electrical_computer/computer_2.svg" link="computer"/>
+  <button text="furniture" image="/images/building_furniture/furniture.svg" link="furniture"/>
+  <button text="toys" image="/images/leisure_toys/toys.svg" link="toys"/>
+  <button text="kitchen things" image="/images/kitchen_items/place_setting.svg" link="kitchen_things"/>
+</row>
+<row>
+  <button text="money" image="/images/money/money.svg" link="money"/>
+  <button text="office" image="/images/building_office/office_block.svg" link="office"/>
+  <button text="sports" image="/images/sport/swim_,_to.svg" link="sports"/>
+  <button text="Things that help" image="/images/medical_items/hoist.svg" link="help"/>
+  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" link="toiletries"/>
+</row>
+<row>
+  <button text="tools" image="/images/tools_workshop/drill_electric.svg" link="tools"/>
+  <button text="transport" image="/images/transport_rail/train.svg" link="transport"/>
+  <button text="nature" image="/images/plants_trees/tree.svg" link="nature"/>
+  <button />
+  <button />
+</row>
+</keyboard>

@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:cornflowerblue;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;" action="home"/>
+  <button text="My pictures" image="/images/electrical_media/camera_compact.svg"/>
+  <button text="Phone" image="/images/electrical_phone/mobile_phone.svg" link="phone"/>
+  <button text="MP3 player" image="/images/electrical_media/iPod.svg" />
+  <button text="Computer control" image="/images/electrical_computer/computer_monitor.svg" style="cell-color:red" />
+</row>
+<row>
+  <button text="I want" image="/images/people_descriptive/good_person.svg" style="cell-color:hotpink;" link="want"/>
+  <button text="DVD" />
+  <button text="TV" image="/images/electrical_tv/switch_on_television_,_to.svg" />
+  <button />
+  <button text="Volume Up" style="cell-color:lightgrey;"/>
+</row>
+<row>
+  <button text="ECU" image="/images/electrical_media/remote_control.svg" />
+  <button />
+  <button />
+  <button />
+  <button text="Volume Down" style="cell-color:lightgrey;" />
+</row>
+<row>
+  <button text="My stories" image="/images/people_descriptive/funny_laugh.svg" style="cell-color:lightpink;" />
+  <button text="Google" />
+  <button text="Youtube" />
+  <button text="Twitter" />
+  <button />
+</row>
+</keyboard>

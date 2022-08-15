@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:white;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="I have pain in my" image="/images/medical_conditions/stomach_ache.svg" style="cell-color:yellow" action="say" link="/personal_care/body_parts"/>
+  <button text="I feel" image="/images/people_descriptive/good_person.svg" style="cell-color:cyan" />
+  <button text="headache" image="/images/medical_conditions/headache.svg" />
+  <button text="ouch" image="/images/medical_conditions/cut.svg" style="cell-color:lightgrey" />
+</row>
+<row>
+  <button text="chest pain" image="/images/healthcare_body/chest_male.svg" />
+  <button text="earache" image="/images/healthcare_body/ear.svg" />
+  <button />
+  <button text="sick" image="/images/medical_conditions/vomit_,_to.svg" />
+  <button text="toothache" image="/images/medical_conditions/toothache.svg" />
+</row>
+<row>
+  <button text="back pain" image="/images/medical_conditions/back_ache.svg" />
+  <button text="a cold" image="/images/medical_conditions/sneeze_cold.svg" />
+  <button />
+  <button text="itch" image="/images/medical_conditions/itch.svg" />
+  <button />
+</row>
+<row>
+  <button text="stomach ache" image="/images/medical_conditions/stomach_ache.svg"/>
+  <button text="a sore throat" image="/images/healthcare_body/throat.svg" />
+  <button text="cramp" image="/images/healthcare_body/leg.svg" />
+  <button />
+  <button />
+</row>
+</keyboard>

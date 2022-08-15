@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="toys" image="/images/leisure_toys/toys.svg" />
+  <button text="trains" image="/images/transport_rail/steam_train.svg" />
+  <button text="cars" image="/images/leisure_toys/car_toy.svg" />
+  <button text="dolls" image="/images/leisure_toys/doll.svg"/>
+</row>
+<row>
+  <button text="bricks" image="/images/leisure_toys/bricks.svg"/>
+  <button text="lego" image="/images/leisure_toys/lego.svg" />
+  <button text="paint" image="/images/work_stationery/paint_childs.svg" />
+  <button text="stacker ring" image="/images/leisure_toys/star_stacker.svg" />
+  <button text="colouring book" image="/images/leisure_toys/colouring_book.svg" />
+</row>
+<row>
+  <button text="book" image="/images/work_education/work_book.svg" />
+  <button text="sticker book" image="/images/leisure_toys/stickers.svg" />
+  <button text="kite" image="/images/leisure_toys/kite.svg" />
+  <button text="teddy" image="/images/leisure_toys/teddy_bear.svg" />
+  <button text="puppet" image="/images/leisure_toys/puppet.svg" />
+</row>
+<row>
+  <button text="shape puzzle" image="/images/leisure_toys/shape_puzzle.svg" />
+  <button text="jigsaw" image="/images/leisure_games/jigsaw_puzzle.svg" />
+  <button text="toy box" image="/images/leisure_toys/toy_box.svg" />
+  <button />
+  <button />
+</row>
+</keyboard>

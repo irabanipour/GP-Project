@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="drink" image="/images/drink_type/drink.svg" />
+  <button text="coffee" image="/images/drink_type/coffee.svg"/>
+  <button text="tea" image="/images/drink_type/tea.svg" />
+  <button text="hot chocolate" image="/images/drink_type/hot_chocolate.svg"/>
+</row>
+<row>
+  <button text="Describing drinks" image="/images/drink_containers/drink_small.svg" style="cell-color:cyan" link="describing"/>
+  <button text="milk" image="/images/drink_type/milk.svg" />
+  <button text="water" image="/images/drink_type/water.svg" />
+  <button />
+  <button />
+</row>
+<row>
+  <button text="juice" image="/images/drink_type/drink.svg" link="juice"/>
+  <button text="smoothie" image="/images/drink_type/milkshake.svg" link="/food/flavours"/>
+  <button text="milkshake" image="/images/drink_type/milkshake.svg" link="milkshake"/>
+  <button text="fizzy drink" image="/images/drink_type/drink.svg" link="fizzy" />
+  <button text="alcohol" image="/images/drink_type/wine.svg" link="alcohol"/>
+</row>
+<row>
+  <button />
+  <button text="with" image="/images/descriptive_quantity/some.svg" style="cell-color:green"/>
+  <button text="and" style="cell-color:pink"/>
+  <button />
+  <button />
+</row>
+</keyboard>

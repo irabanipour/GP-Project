@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:lightgrey;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;" action="home"/>
+  <button text="Hello" say="Hello my name is x I use a communication aid to speak. Please give me time to generate what I need to say" />
+  <button text="Chatting" image="/images/communication_conversation/hello.svg" link="/chatting"/>
+  <button text="I want to ask you something" action="say" image="/images/question/how.svg" style="cell-color:orange;" link="/questions"/>
+  <button text="Call me" image="/images/electrical_phone/mobile_phone.svg" />
+</row>
+<row>
+  <button text="I need to check my credit" image="/images/money/money.svg" />
+  <button text="I'd like to call" action="say" image="/images/work_timetable/assembly.svg" style="cell-color:goldenrod;" link="/people"/>
+  <button style="cell-color:white;" />
+  <button text="speak soon" image="/images/communication_conversation/hello.svg" />
+  <button text="Take care" image="/images/healthcare_body/thumbs.svg"/>
+</row>
+<row>
+  <button text="I need to charge my phone..." image="/images/electrical_phone/charger_electric.svg" />
+  <button style="cell-color:white;" />
+  <button style="cell-color:white;" />
+  <button text="When will I see you?" image="/images/healthcare_body/eyes_blue.svg" style="cell-color:orange;" />
+  <button style="cell-color:white;" />
+</row>
+<row>
+  <button text="Tell me your news" image="/images/work_education/newspaper.svg" />
+  <button text="I miss you" image="/images/people_descriptive/wrong_thought.svg" />
+  <button text="Happy Birthday" image="/images/celebration_event/celebrate_birthday.svg" />
+  <button text="Get well soon" image="/images/medical_conditions/stomach_ache.svg" />
+  <button text="congratulations" image="/images/celebration_event/celebration.svg" />
+</row>
+</keyboard>

@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:cyan;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="feelings" image="/images/people_feelings/sad_man.svg" link="feelings"/>
+  <button text="colours" image="/images/art_colour/colour.svg" link="colours"/>
+  <button text="shapes" image="/images/descriptive_shape/shapes.svg" link="shapes"/>
+  <button text="opposites" image="/images/descriptive_position/opposite.svg" link="opposites"/>
+</row>
+<row>
+  <button text="all" image="/images/descriptive_state/spotty.svg" style="cell-color:yellow" />
+  <button text="more" image="/images/descriptive_quantity/more.svg" />
+  <button text="nice" image="/images/environment_weather/rainbow.svg" />
+  <button text="wrong" image="/images/people_descriptive/wrong_thought.svg" />
+  <button text="right" image="/images/people_descriptive/correct_thought.svg" />
+</row>
+<row>
+  <button text="finished" image="/images/descriptive_direction/finish.svg" />
+  <button text="pretty" image="/images/people_feelings/desiring_lady.svg" />
+  <button text="mean" image="/images/people_feelings/jealous_man.svg" />
+  <button text="different" image="/images/descriptive_position/beside_next_to.svg" />
+  <button text="same" image="/images/descriptive_quantity/same.svg" />
+</row>
+<row>
+  <button text="problem" image="/images/descriptive_state/hard.svg"/>
+  <button text="important" image="/images/science_astronomy/star.svg"/>
+  <button text="because" style="cell-color:pink;font-size:28" />
+  <button text="idea" image="/images/electrical_general/lightbulb.svg"/>
+  <button text="favorite" image="/images/descriptive_quantity/favourite.svg"/>
+</row>
+</keyboard>

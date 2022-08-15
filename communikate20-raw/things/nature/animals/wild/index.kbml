@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="wild animal" image="/images/animal_mammal/lion.svg" />
+  <button text="zebra" image="/images/animal_mammal/zebra.svg" />
+  <button text="snake" image="/images/animal_reptiles/snake.svg" />
+  <button text="monkey" image="/images/animal_mammal/chimpanzee.svg" />
+</row>
+<row>
+  <button text="bear" image="/images/animal_mammal/polar_bear.svg" />
+  <button text="camel" image="/images/animal_mammal/camel.svg" />
+  <button text="cheetah" image="/images/animal_mammal/cheetah.svg" />
+  <button text="deer" image="/images/animal_mammal/deer.svg" />
+  <button text="elephant" image="/images/animal_mammal/elephant.svg" />
+</row>
+<row>
+  <button text="giraffe" image="/images/animal_mammal/giraffe.svg" />
+  <button text="gorilla" image="/images/animal_mammal/gorilla.svg" />
+  <button text="hippo" image="/images/animal_mammal/hippopotamus.svg" />
+  <button text="lion" image="/images/animal_mammal/lion.svg" />
+  <button text="tiger" image="/images/animal_mammal/tiger.svg" />
+</row>
+<row>
+  <button text="rhinoceros" image="/images/animal_mammal/rhinoceros.svg" />
+  <button />
+  <button />
+  <button />
+  <button />
+</row>
+</keyboard>

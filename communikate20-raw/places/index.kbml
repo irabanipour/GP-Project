@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  cell-color:purple;
+  color:white;
+</style>
+<row>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" action="home"/>
+  <button text="place" image="/images/science_astronomy/Earth.svg" />
+  <button text="My day places" image="/images/building_school/school.svg" />
+  <button text="shops" image="/images/building_shop/shop_2.svg" link="shops" />
+  <button text="places outside" image="/images/descriptive_position/outside.svg" link="outside"/>
+</row>
+<row>
+  <button text="work" image="/images/tools_actions/work_,_to.svg" />
+  <button text="School / college" image="/images/building_school/school_1.svg" />
+  <button text="town" image="/images/building_residential/house.svg" />
+  <button text="hospital" image="/images/medical_items/medicine.svg" />
+  <button text="airport" image="/images/people_profession/pilot_1b.svg" />
+</row>
+<row>
+  <button text="dentist" image="/images/people_profession/dentist_1a.svg" />
+  <button text="bank" image="/images/money/money.svg" />
+  <button text="doctors" image="/images/people_profession/doctor_1a.svg" />
+  <button text="pool" image="/images/sport/swim_,_to.svg" />
+  <button text="restaurant" image="/images/food_feeding/dinner_2_people.svg" />
+</row>
+<row>
+  <button text="library" image="/images/building_furniture/bookcase.svg" />
+  <button text="pub" image="/images/drink_type/beer.svg" />
+  <button text="post office" image="/images/people_profession/post_person_1a.svg" />
+  <button text="cinema" image="/images/electrical_tv/childrens_tv.svg" />
+  <button text="home" image="/images/building_residential/house.svg" link="home"/>
+</row>
+</keyboard>

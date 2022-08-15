@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="thing" image="/images/building_furniture/dining_table.svg" />
+  <button text="bag" image="/images/clothes_accessories/school_bag.svg" />
+  <button text="battery" image="/images/electrical_general/battery_1.svg" />
+  <button text="candle" image="/images/celebration_item/candle_2.svg" />
+</row>
+<row>
+  <button text="fire" image="/images/descriptive_state/fire.svg"/>
+  <button text="book" image="/images/work_education/work_book.svg" />
+  <button text="ipad" image="/images/electrical_phone/iPhone.svg" />
+  <button text="camera" image="/images/electrical_media/camera_compact.svg" />
+  <button />
+</row>
+<row>
+  <button text="stuff" image="/images/electrical_computer/laptop.svg" />
+  <button text="part" image="/images/descriptive_quantity/part.svg" />
+  <button text="lot" image="/images/descriptive_quantity/lots_more.svg" />
+  <button text="idea" image="/images/electrical_general/lightbulb.svg" />
+  <button text="problem" image="/images/people_feelings/face_neutral_3.svg" />
+</row>
+<row>
+  <button />
+  <button />
+  <button />
+  <button />
+  <button text="charger" image="/images/electrical_phone/charger_electric.svg" />
+</row>
+</keyboard>

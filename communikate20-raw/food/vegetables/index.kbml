@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="vegetables" image="/images/food_vegetables/vegetables.svg" />
+  <button text="potato" image="/images/food_vegetables/potato.svg" link="potato"/>
+  <button text="aubergine" image="/images/food_vegetables/aubergine.svg" />
+  <button text="broccoli" image="/images/food_vegetables/broccoli.svg"/>
+</row>
+<row>
+  <button text="butternut squash" image="/images/food_vegetables/butternut_squash.svg" />
+  <button text="cabbage" image="/images/food_vegetables/cabbage.svg" />
+  <button text="cauliflower" image="/images/food_vegetables/cauliflower.svg" />
+  <button text="courgette" image="/images/food_vegetables/courgette.svg" />
+  <button text="carrot" image="/images/food_vegetables/carrot.svg" />
+</row>
+<row>
+  <button text="leek" image="/images/food_vegetables/leek.svg" />
+  <button text="asparagus" image="/images/food_vegetables/asparagus.svg" />
+  <button text="peas" image="/images/food_vegetables/peas.svg" />
+  <button text="onion" image="/images/food_vegetables/onion.svg" />
+  <button text="green beans" image="/images/food_vegetables/green_beans.svg" />
+</row>
+<row>
+  <button text="pumpkin" image="/images/food_vegetables/pumpkin.svg"/>
+  <button text="mushroom" image="/images/food_vegetables/mushroom.svg"/>
+  <button text="turnip" image="/images/food_vegetables/turnip.svg"/>
+  <button text="sweetcorn" image="/images/food_vegetables/sweetcorn.svg"/>
+  <button />
+</row>
+</keyboard>

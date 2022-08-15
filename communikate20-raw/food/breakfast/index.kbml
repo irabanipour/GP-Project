@@ -1,0 +1,36 @@
+<keyboard version="1">
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
+  <button text="breakfast" image="/images/food_meals/breakfast_5.svg" />
+  <button text="cereal" image="/images/food_breads/cereal.svg" />
+  <button text="porridge" image="/images/food_breads/porridge.svg" />
+  <button text="bran" image="/images/food_breads/cereal_bran.svg" />
+</row>
+<row>
+  <button text="toast" image="/images/kitchen_items/toast.svg" />
+  <button text="butter" image="/images/food_dairy/butter.svg" />
+  <button text="croissant" image="/images/food_meals/breafkfast_continental_1.svg" />
+  <button text="jam" image="/images/food_sweets/jam.svg" />
+  <button text="muesli" image="/images/food_breads/cereal_box_museli.svg" />
+</row>
+<row>
+  <button text="boiled egg" image="/images/food_eggs/egg_boiled.svg" />
+  <button text="fried egg" image="/images/food_eggs/egg_fried.svg" />
+  <button text="scrambled egg" image="/images/food_eggs/eggs_scrambled.svg" />
+  <button text="bagel" image="/images/food_breads/bagel.svg" />
+  <button text="full English" image="/images/food_meals/breafkfast_fried.svg" />
+</row>
+<row>
+  <button text="beans" image="/images/food_vegetables/baked_beans.svg" />
+  <button text="fruit" image="/images/food_fruit/fruit.svg" />
+  <button text="pancakes" image="/images/food_breads/pancakes.svg"/>
+  <button />
+  <button />
+</row>
+</keyboard>
